@@ -1,8 +1,19 @@
 # Assignment: Open Source Self Discovery
-## Worth: 8
-## Due: 2 days
+## Worth: 20
+## Due: Sunday, March 17, 11:59pm
+## Background
+
+Read this page and watch the embedded videos. https://www.makeuseof.com/tag/open-source-vs-free-software/
+
 ## Directions
 
+### Part 1 (3 pts each):
+1. Why does Richard Stallman believe software must be "free?"
+2. What do you think of Stallman's notion of software that controls its users rather than users who control the software? Is there any software that makes you feel like that?
+3. Why does Allison Randal say that companies who don't use open source software are at a disadvantage?
+4. Why does Linus Torvalds think that the GPLv3 is "overreaching?"
+
+### Part 2 (1 pt each): 
 Identify software that you use on a regular basis or which you have heard about which is distributed with an open source license. Do not select software that is listed in the syllabus for this course.
 
 1. What is the name of the software?
