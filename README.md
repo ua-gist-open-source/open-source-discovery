@@ -8,6 +8,7 @@ Read this page and watch the embedded videos. https://www.makeuseof.com/tag/open
 Feel free to do your own additional research to help answer the questions below
 
 ## Directions
+_Answer the questions below by editing this document and committing it to a new branch in this repo named `open_source` and submit a *Pull request* to signal you have completed the assignment._
 
 ### Part 1 (3 pts each):
 1. Why does Richard Stallman believe software must be "free?"
@@ -38,4 +39,4 @@ Identify software that you use on a regular basis or which you have heard about 
 8. How can become a contributor to this project?
 
 
-_Answer the questions by editing this document and committing it to a new branch named `open_source` and submit a *`Pull request`* to signal you have completed the assignment._
+
