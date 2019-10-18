@@ -38,5 +38,6 @@ Identify software that you use on a regular basis or which you have heard about 
 
 8. How can become a contributor to this project?
 
-
+### Notify instructor the assignment is done through Slack.
+Send a DM through slack to the instructor indicating that this assignment is complete (link to this url). 
 
