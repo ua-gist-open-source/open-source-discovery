@@ -1,6 +1,5 @@
 # Assignment: Open Source Self Discovery
 ## Worth: 20
-## Due: Sunday, March 17, 11:59pm
 ## Background
 
 Read this page and watch the embedded videos. https://www.makeuseof.com/tag/open-source-vs-free-software/
