@@ -1,5 +1,4 @@
 # Assignment: Open Source Self Discovery
-## Worth: 20
 ## Background
 
 Read this page and watch the embedded videos. https://www.makeuseof.com/tag/open-source-vs-free-software/
@@ -9,7 +8,7 @@ Feel free to do your own additional research to help answer the questions below
 ## Directions
 _Answer the questions below by editing this document and committing it to this file._ 
 
-### Part 1 (3 pts each):
+### Part 1:
 1. Why does Richard Stallman believe software must be "free?"
 
 2. What do you think of Stallman's notion of software that controls its users rather than users who control the software? Is there any software that makes you feel like that?
@@ -18,7 +17,7 @@ _Answer the questions below by editing this document and committing it to this f
 
 4. Why does Linus Torvalds think that the GPLv3 is "overreaching?"
 
-### Part 2 (1 pt each): 
+### Part 2: 
 Identify software that you use on a regular basis or which you have heard about which is distributed with an open source license. Do not select software that is listed in the syllabus for this course.
 
 1. What is the name of the software?
@@ -39,4 +38,3 @@ Identify software that you use on a regular basis or which you have heard about 
 
 ### Notify instructor the assignment is done through Slack.
 Send a DM through slack to the instructor indicating that this assignment is complete (link to this url). 
-
